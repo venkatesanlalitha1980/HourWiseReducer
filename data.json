@@ -1,4 +1,6 @@
 {
 	"InputPath": "C:\\Venkatesan\\CIRUs\\Application\\NFR\\Analyzer\\InputPath",
-	"writePath": "C:\\Venkatesan\\CIRUs\\Application\\NFR\\Analyzer\\InputPath\\HourResults.csv"
+	"writePath": "C:\\Venkatesan\\CIRUs\\Application\\NFR\\Analyzer\\InputPath\\HourResults.csv",
+	"urlCountPath":"C:\\Venkatesan\\CIRUs\\Application\\NFR\\Analyzer\\InputPath\\HourResults2.csv",
+	"URLPath":"C:\\Venkatesan\\CIRUs\\Application\\NFR\\Analyzer\\InputPath\\HourResults1.csv"
 }
